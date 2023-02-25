@@ -1,10 +1,12 @@
 using Microsoft.AspNetCore.Identity;
 
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using WebEnterpriseProject.Enums;
 
 namespace WebEnterpriseProject.Models;
 
-{
+
 	public class User : IdentityUser
 		{
 			[Key]
@@ -16,4 +18,3 @@ namespace WebEnterpriseProject.Models;
 		    public string UserEmail { get; set; }
 		    public string UserPassword { get; set; }
 		}
-}

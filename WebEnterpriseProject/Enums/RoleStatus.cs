@@ -6,5 +6,6 @@ namespace WebEnterpriseProject.Enums
     QAM, // 2
     QAC, // 3
     STAFF, // 4
-  }
+        RoleId,
+    }
 }

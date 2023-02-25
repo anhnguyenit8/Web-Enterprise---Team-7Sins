@@ -4,5 +4,6 @@ namespace WebEnterpriseProject.Enums
   {
     Public, // 1
     Private, // 2
-  }
+        Post,
+    }
 }
