@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MSI_\\source\\repos\\Web-Enterprise---Team-7Sins\\WebEnterpriseProject\\WebEnterpriseProject.csproj": {}
+    "C:\\Users\\MSI_\\Source\\Repos\\Web-Enterprise---Team-7Sins\\WebEnterpriseProject\\WebEnterpriseProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MSI_\\source\\repos\\Web-Enterprise---Team-7Sins\\WebEnterpriseProject\\WebEnterpriseProject.csproj": {
+    "C:\\Users\\MSI_\\Source\\Repos\\Web-Enterprise---Team-7Sins\\WebEnterpriseProject\\WebEnterpriseProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MSI_\\source\\repos\\Web-Enterprise---Team-7Sins\\WebEnterpriseProject\\WebEnterpriseProject.csproj",
+        "projectUniqueName": "C:\\Users\\MSI_\\Source\\Repos\\Web-Enterprise---Team-7Sins\\WebEnterpriseProject\\WebEnterpriseProject.csproj",
         "projectName": "WebEnterpriseProject",
-        "projectPath": "C:\\Users\\MSI_\\source\\repos\\Web-Enterprise---Team-7Sins\\WebEnterpriseProject\\WebEnterpriseProject.csproj",
+        "projectPath": "C:\\Users\\MSI_\\Source\\Repos\\Web-Enterprise---Team-7Sins\\WebEnterpriseProject\\WebEnterpriseProject.csproj",
         "packagesPath": "C:\\Users\\MSI_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MSI_\\source\\repos\\Web-Enterprise---Team-7Sins\\WebEnterpriseProject\\obj\\",
+        "outputPath": "C:\\Users\\MSI_\\Source\\Repos\\Web-Enterprise---Team-7Sins\\WebEnterpriseProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI_\\AppData\\Roaming\\NuGet\\NuGet.Config",

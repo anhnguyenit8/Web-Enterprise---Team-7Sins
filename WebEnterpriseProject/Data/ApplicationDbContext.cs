@@ -12,11 +12,11 @@ namespace WebEnterpriseProject.Data
         {
         }
 
-        public DbSet<Post> Trainer { get; set; }
-        public DbSet<Department> Assignments { get; set; }
-        public DbSet<Comment> Enrollments { get; set; }
-        public DbSet<Category> Categories { get; set; }
-        public DbSet<User> Courses { get; set; }
+        public DbSet<Category> Category { get; set; }
+        public DbSet<Comment> Comment { get; set; }
+        /*public DbSet<Department> Department { get; set; }*/
+        public DbSet<Post> Post { get; set; }
+        public DbSet<User> User { get; set; }
 
     }
 }
