@@ -10,5 +10,6 @@ namespace WebEnterpriseProject.Models
     [Required(ErrorMessage = "Department Name cannot be null ...")]
     [StringLength(255)]
    	public string DepartmentName { get; set; }
-  }
+    public List<User> Users { get; set; }
+    }
 }

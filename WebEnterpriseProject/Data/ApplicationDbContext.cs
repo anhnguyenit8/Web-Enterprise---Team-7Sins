@@ -13,7 +13,7 @@ namespace WebEnterpriseProject.Data
         }
 
         public DbSet<Post> Post { get; set; }
-        public DbSet<Department> Category { get; set; }
+       /* public DbSet<Department> Category { get; set; }*/
         public DbSet<Comment> Department { get; set; }
         public DbSet<Category> User { get; set; }
         public DbSet<User> Comment { get; set; }
