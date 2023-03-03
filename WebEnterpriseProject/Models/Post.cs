@@ -20,13 +20,11 @@ namespace WebEnterpriseProject.Models
     [ForeignKey("Category")]
     public int CategoryId { get; set; }
     public Category Category { get; set; }
-    [Required]
-    [ForeignKey("User")]
-    public int UserId { get; set; }
+    public string UserId { get; set; }
     public User User { get; set; }
     public byte[] ImageData { get; set; }
-    public List<User> Like { get; set; }
-    public List<User> DisLike { get; set; }
+    public byte[] Like { get; set; }
+    public byte[] DisLike { get; set; }
     public List<Comment> Comments { get; set; }
     public int Active { get; set; }
   }
